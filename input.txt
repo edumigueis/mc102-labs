@@ -1,0 +1,5 @@
+3
+QE, 2C, KO
+AO, 2E, 2P
+AP, AE, AC
+3

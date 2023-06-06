@@ -1,0 +1,8 @@
+Jogador 1
+Mão: 2C QE KO
+Jogador 2
+Mão: AO 2P 2E
+Jogador 3
+Mão: AC AE AP
+Pilha: 
+[Jogador 1] 3 carta(s) 2
