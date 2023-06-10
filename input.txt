@@ -1,5 +1,6 @@
-3
-QE, 2C, KO
-AO, 2E, 2P
-AP, AE, AC
-3
+4
+10C, 4E, QP, 3E, KE, AO
+KP, JP, 4P, 10P, 4C
+4O, JC, QO, 3O, AP, 10O, QE
+3C, 10E, JE, AE, QC, JO, KO
+7
