@@ -1,6 +1,5 @@
-4
-10C, 4E, QP, 3E, KE, AO
-KP, JP, 4P, 10P, 4C
-4O, JC, QO, 3O, AP, 10O, QE
-3C, 10E, JE, AE, QC, JO, KO
-7
+images/baboon.pgm
+3
+bucket 255 50 43 55
+bucket 255 50 84 55
+save images/10.baboon.pgm
